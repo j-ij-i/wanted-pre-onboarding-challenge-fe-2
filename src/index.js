@@ -12,34 +12,34 @@
 /**
  * Create todo.
  * @function createTodo
- * @param {string} id
- * @param {string} contents
- * @param {string} categorys
- * @param {string} tags
+ * @param {string} id - To do id.
+ * @param {string} contents - To do Contents.
+ * @param {string} categorys - To do categorys.
+ * @param {string} tags - To do tags.
  */
 function CreateTodo(id, contents, categorys, tags) {}
 
 /**
  * Read todo.
  * @function readTodo
- * @param {string} id
+ * @param {string} id - To do id.
  */
 function ReadTodo(id) {}
 
 /**
  * Update todo.
  * @function updateTodo
- * @param {string} id
- * @param {string} contents
- * @param {boolean} isCompleted
- * @param {string} categorys
- * @param {string} tags
+ * @param {string} id - To do id.
+ * @param {string} contents - To do Contents.
+ * @param {boolean} isCompleted - To do Completed.
+ * @param {string} categorys - To do categorys.
+ * @param {string} tags - To do tags.
  */
 function UpdateTodo(id, contents, isCompleted, categorys, tags) {}
 
 /**
  * Update Delete.
- * @param {string} id
+ * @param {string} id - To do id.
  * @function deleteTodo
  */
 function DeleteTodo(id) {}
