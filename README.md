@@ -1,5 +1,9 @@
 # 프리온보딩 프론트엔드 챌린지 2차
 
+## 💻 Output
+
+[Link](https://j-ij-i.github.io/wanted-pre-onboarding-challenge-fe-2/)
+
 ## 📝 Requirements
 
 ### 필수 요구사항
